@@ -1,0 +1,27 @@
+body{
+   background-image:url(zootopia-wallpaper-4.jpg);
+   
+}
+
+table { 
+    text-decoration-color:red;
+    font-size:large;
+    font-style:italic;
+    font-family:Arial;
+    padding:60px 60px 60px 60px ;
+    margin: 20px auto;
+    background-color:red;
+    position:relative;
+    top:300px;
+    border-color:black;
+    border:5px solid;
+
+}
+h1 {
+    background-color:black;
+    color: red; 
+    font-family:Andalus;
+    position:relative;
+    left:550px;
+    
+}
